@@ -17,7 +17,6 @@ void delay(unsigned int j) {
 int main(void){
 	SystemInit();
 	init_led();
-	delay(garbage[0]);
 	for(;;) {
 		LED_ON();
 		delay(750000);
