@@ -1,7 +1,7 @@
 *.o
 *.hex
-*.bin
+main.bin
 *.lst
 *.list
 *.map
-*.elf
+main.elf
