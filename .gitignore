@@ -5,3 +5,4 @@ main.bin
 *.list
 *.map
 main.elf
+output/*
